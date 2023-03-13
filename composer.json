@@ -1,0 +1,13 @@
+{
+  "name": "day-28/day-28",
+  "type": "project",
+  "description": "Raw PHP Project",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
